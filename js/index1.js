@@ -197,10 +197,10 @@ const produtos = [
   {nome: "Sprite 250ml", preco: 1.99, foto: "img/sprite.png", categoria: "Bebidas", tipo: "und", ativo: 1,},
   {nome: "sprite 2 Litros", preco: 8.99, foto: "img/sprite2.png", categoria: "Bebidas", tipo: "und", ativo: 1,},
   {nome: "Fanta 250ml", preco: 2.99, foto: "img/fantaP.jpeg", categoria: "Bebidas", tipo: "und", ativo: 1,},
-  {nome: "Fanta 2 Litros", preco: 2.99, foto: "img/fanta2.jpeg", categoria: "Bebidas", tipo: "und", ativo: 1,},
+  {nome: "Fanta 2 Litros", preco: 8.99, foto: "img/fanta2.jpeg", categoria: "Bebidas", tipo: "und", ativo: 1,},
   {nome: "Guaraná Antarctica 200ml", preco: 2.49, foto: "img/antarctica.png", categoria: "Bebidas", tipo: "und", ativo: 1,},
   {nome: "Guaraná Santa Joana 2 Litros Guaraná", preco: 4.99, foto: "img/santaG.png", categoria: "Bebidas", tipo: "und", ativo: 1,},
-  {nome: "Guaraná Santa Joana 2 Litros Cola", preco: 4.99, foto: "img/santac.png", categoria: "Bebidas", tipo: "und", ativo: 1,},
+  {nome: "Guaraná Santa Joana 2 Litros Cola", preco: 4.99, foto: "img/santaC.png", categoria: "Bebidas", tipo: "und", ativo: 1,},
   {nome: "Àgua Mineral 500ml", preco: 1.49, foto: "img/agua500.jpg", categoria: "Bebidas", tipo: "und", ativo: 1,},
   {nome: "Àgua Mineral 1,5 Litros", preco: 2.99, foto: "img/agua1,5.png", categoria: "Bebidas", tipo: "und", ativo: 1,},
   
