@@ -158,8 +158,8 @@ const produtos = [
     ]
   },
   { nome: "Bolinho De Bacalhau", preco: 2.00, foto: "img/bolinho.png", categoria: "Salgados", tipo: "und", ativo: 1, },
-  { nome: "Bolinha De queijo", preco: 0.99, foto: "img/bolinho.png", categoria: "Salgados", tipo: "und", ativo: 1, },
-  { nome: "Risole Misto", preco: 0.99, foto: "img/.png", categoria: "Salgados", tipo: "und", ativo: 1, },
+  { nome: "Bolinha De queijo", preco: 0.99, foto: "img/bolinhoQ.png", categoria: "Salgados", tipo: "und", ativo: 1, },
+  { nome: "Risole Misto", preco: 0.99, foto: "img/risole.png", categoria: "Salgados", tipo: "und", ativo: 1, },
   {
     nome: "Mini Pizza", preco: 1.99, foto: "img/pizza.png", categoria: "Salgados", tipo: "und", ativo: 1,
     variacoes: [
