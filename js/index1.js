@@ -167,6 +167,13 @@ const produtos = [
       { nome: "Mussarela", ativo: 1 },
     ]
   },
+  {
+    nome: "Pote de Salgadinho", preco: 4.99, foto: "img/salgadinho.png", categoria: "Salgados", tipo: "und", ativo: 1,
+    variacoes: [
+      { nome: "QUEIJO", ativo: 1 },
+      { nome: "CEBOLA", ativo: 1 },
+    ]
+  },
 
   //DOCES: 
   {
