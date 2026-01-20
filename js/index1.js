@@ -590,7 +590,7 @@ document.getElementById("m_confirmar").onclick = () => {
   const totalFinal = (carrinho.reduce((a, b) => a + b.total, 0) - descontoVal + taxaEntrega).toFixed(2);
   atualizarResumo();
 
-  const msg = `*PEDIDO 5M SLGADOS E DOCES*\n\n${itens}\n\nDesconto: R$ ${descontoVal.toFixed(2)}\nTaxa: R$ ${taxaEntrega.toFixed(2)}\n*Total: R$ ${totalFinal}*\n\nPagamento: ${pagamento}\nEntrega: ${formaEntrega}${txtEndereco}`;
+  const msg = `*PEDIDO 5M SALGADOS E DOCES*\n\n*${itens}*\n\nDesconto: R$ ${descontoVal.toFixed(2)}\nTaxa: R$ ${taxaEntrega.toFixed(2)}\n*Total: R$ ${totalFinal}*\n\nPagamento: ${pagamento}\nEntrega: ${formaEntrega}${txtEndereco}`;
 
   window.open(`https://wa.me/5581996864080?text=${encodeURIComponent(msg)}`, "_blank");
 
